@@ -23,7 +23,7 @@ h1 img .llogoboheme {
   .intro-text {
     display: flex;
     flex-wrap: wrap;
-    width: 240px;
+    width: 320px;
     text-align: center;
     align-items: center;
     font-size: medium;
@@ -32,23 +32,27 @@ h1 img .llogoboheme {
   }
   .intro-text img {
     
-    
-   margin-bottom: 80px;
+  
    
-    width: 230px;
+   
+    width: 320px;
+    z-index: 1;
+    margin: 0 auto;
   }
 .llogodisplay img .llogoboheme{
-  width: 200px;
+  width: 240px;
+  
+  
 }
   .intro {
-    background: url(https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/272841411_127803209741350_4720693790761511480_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nuQu_X9zYhgAX8gh1Af&_nc_ht=scontent.fprn1-1.fna&oh=00_AfAPgwJxcQ_ZdcTwL4j9VSuQVuF-ClnPRy-rmZYlOwEL8w&oe=640DBDD7)
+    position: relative;
+    background: url(https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299799869_174201795176270_7752017533551235136_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=kABcxtWpyFEAX9D7a4C&_nc_ht=scontent.fprn1-1.fna&oh=00_AfAP1zb7scyK7EwtUON4oa2jc6j1ZWPIUUafulLuka4ZMA&oe=640ED896)
       no-repeat center center !important;
     background-size: cover !important;
-    
+     
   }
-  .llogo {
-    display: none !important;
-  }
+ 
+  
   
 }
 
