@@ -29,21 +29,26 @@ h1 img .llogoboheme {
     font-size: medium;
     margin: 0 auto;
     height: 700px;
+    
   }
   .intro-text img {
-    
-  
-   
-   
-    width: 320px;
+      width: 320px;
     z-index: 1;
     margin: 0 auto;
   }
 .llogodisplay img .llogoboheme{
   width: 240px;
-  
+ 
   
 }
+.llogodisplay img {
+  display: none;
+}
+
+.paragraph{
+  margin-top: 180px;
+}
+
   .intro {
     position: relative;
     background: url(https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299799869_174201795176270_7752017533551235136_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=kABcxtWpyFEAX9D7a4C&_nc_ht=scontent.fprn1-1.fna&oh=00_AfAP1zb7scyK7EwtUON4oa2jc6j1ZWPIUUafulLuka4ZMA&oe=640ED896)
