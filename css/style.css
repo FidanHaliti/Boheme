@@ -55,7 +55,7 @@ h1 img .llogoboheme {
 
   .intro {
     position: relative;
-    background: url(https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299799869_174201795176270_7752017533551235136_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=kABcxtWpyFEAX9D7a4C&_nc_ht=scontent.fprn1-1.fna&oh=00_AfAP1zb7scyK7EwtUON4oa2jc6j1ZWPIUUafulLuka4ZMA&oe=640ED896)
+    background: url('https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299799869_174201795176270_7752017533551235136_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=kABcxtWpyFEAX9D7a4C&_nc_ht=scontent.fprn1-1.fna&oh=00_AfAP1zb7scyK7EwtUON4oa2jc6j1ZWPIUUafulLuka4ZMA&oe=640ED896')
       no-repeat center center !important;
     background-size: cover !important;
   isolation: isolate;
@@ -283,7 +283,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299192299_174201785176271_8461051036880545448_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=XzZ3X9CwZq8AX98jBGS&_nc_ht=scontent.fprn1-1.fna&oh=00_AfALPOQ4fLYoDDd-wBUJepOVvna0Ndkq-sKB567lXWfvCQ&oe=640EA2A1)
+  background: url('https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/299192299_174201785176271_8461051036880545448_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=XzZ3X9CwZq8AX98jBGS&_nc_ht=scontent.fprn1-1.fna&oh=00_AfALPOQ4fLYoDDd-wBUJepOVvna0Ndkq-sKB567lXWfvCQ&oe=640EA2A1')
     no-repeat center center;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
@@ -351,7 +351,7 @@ header .intro-text {
   padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-  background: #444 url(../img/menu-bg.jpg) center center no-repeat fixed;
+  background: #444 url('../img/menu-bg.jpg') center center no-repeat fixed;
   background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -528,7 +528,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
   color: #fff;
-  background: #444 url(../img/team-bg.jpg) center top no-repeat fixed;
+  background: #444 url('../img/team-bg.jpg') center top no-repeat fixed;
   background-size: cover;
 }
 #team .overlay {
