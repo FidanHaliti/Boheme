@@ -405,7 +405,7 @@ header .intro-text {
 }
 #portfolio .section-title {
   background: #444
-    url("https://scontent.fprn1-1.fna.fbcdn.net/v/t39.30808-6/272673961_127803756407962_9191884585567340393_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=uI4ho7GI27AAX-Nv27d&_nc_ht=scontent.fprn1-1.fna&oh=00_AfBrMjJFRT74bD_VR7S3sAKFCTzWL3wvw7TyWWdON8MK6w&oe=640DA379")
+    url("/img/boheme-bg.jpg")
     center center no-repeat fixed;
   background-size: cover;
   margin-bottom: 50px;
