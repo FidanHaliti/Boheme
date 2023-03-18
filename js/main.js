@@ -41,6 +41,13 @@ function main() {
       $(".navbar-collapse").collapse('hide');
     }
   });
+
+
+
+
+  //add menu active
+  
+  
 	
   	// Portfolio isotope filter
     $(window).load(function() {
