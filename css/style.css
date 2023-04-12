@@ -32,23 +32,7 @@ h1 img .llogoboheme {
    
     
   }
-----
 
-#restaurant-menu .section-title {
-  background: #444 url('../img/menu-bg.jpg') center center no-repeat fixed;
-  background-size: cover;
-}
-
-
-  #portfolio .section-title {
-    background: #444
-      url("/img/boheme-bg.jpg")
-      center center no-repeat fixed;
-    background-size: contain;
-    margin-bottom: 50px;
-  }
-
-------
 
 
   .intro-text img {
